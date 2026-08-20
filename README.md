@@ -1,9 +1,9 @@
 # Welcome to My GitHub
 
-Hi, I'm **Ramin** — a Full-Stack Developer based in **London, Ontario**.
+Hi, I'm **Ramin** - a Full-Stack Developer based in **London, Ontario**.
 After years of curiosity about tech, I’ve committed myself to software development and building a new career path.
 
-Having completed a **Web and Development Fundamentals** program, I’ve sharpened the essentials of programming, problem-solving, and modern development practices. This GitHub is where I share my work — from small experiments to full projects — as I continue to grow as a professional developer.
+Having completed a **Web and Development Fundamentals** program, I’ve sharpened the essentials of programming, problem-solving, and modern development practices. This GitHub is where I share my work - from small experiments to full projects - as I continue to grow as a professional developer.
 
 ---
 
